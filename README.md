@@ -1,7 +1,7 @@
   # QCFirst
   # Here is how the Log in page works, if a user is new, it directly takes them to the Sign up page
  
-  [Link to Sign up/Log in](https://github.com/yinan0319/qcfirst/blob/main/Login.html)
+  [Link to website](https://github.com/yinan0319/qcfirst/index.html)
 ### Users : 
 #####  Student
 ##### Instructor
