@@ -1,5 +1,7 @@
   # QCFirst
-  ### This is a course enrollment website called QCFirst
+  # Here is how the Log in page works, if a user is new, it directly takes them to the Sign up page
+ 
+  [Link to Sign up/Log in](https://github.com/yinan0319/qcfirst/blob/main/Login.html)
 ### Users : 
 #####  Student
 ##### Instructor
