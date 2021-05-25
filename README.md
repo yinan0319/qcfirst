@@ -1,22 +1,58 @@
-  # QCFirst
-  # Here is how the Log in page works, if a user is new, it directly takes them to the Sign up page
+
+### https://qcfirsttaiyeba.herokuapp.com
+
+## QCFirst
  
-  [Link to website](https://github.com/yinan0319/qcfirst/index.html)
+### Team members : 
+##### Yinan 
+##### Khadija 
+### Roles : 
+##### Yinan : HTML : Add course, student home page, Student Roster 
+##### Khadija: HTML : Sign up, Log in , Student Homepage
+##### Backend: Had Asynchronouse meetings and worked together 
 ### Users : 
 #####  Student
 ##### Instructor
+##### Admin 
 ### Features:
 #### User Sign up/Log in
 ###### Users can log in/sign up with respective credentials
-#### Enrollement management (Instructor)
 ######  Instructor can add or remove courses from the database of courses
-#### Course Management (Student)
-######  Students can add or drop courses 
+######  Students can register for  courses 
+###### Admin can view the dumped database by logging in with admin credentials 
+### Choice of Frontend/Client side technologies: 
+###### HTML, CSS, javaScript
+### Choice of Backend technologies :
+###### Node js, Express js 
+### Choice of Database 
+###### Mongodb Atlas 
+### Choice of hosting our website 
+###### Heroku ( both Frontend and Backend) 
+
+## Summary of design 
+##### Originally we had some different visions of what we want QCFirst to look like, however,after the completion of our project, 
+##### we realized that the theme and implementations are the same, only with some minor changes in certain design/layout choices 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Design :
 #### Virtual:
-###### Attached are the designs that we envision to create 
-#### Responsiveness:
-#### Desktop:
+###### Attached are the designs that we have created before before to to create 
 ###### The Logo and the name is parallel to each other on the top
 ##### The Layout is so that the contents fit in desktop browsers and is organized to that extent
 #### Sign up
