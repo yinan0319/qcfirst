@@ -67,6 +67,27 @@
 ##### https://expressjs.com/en/starter/hello-world.html
 
 
+##### https://expressjs.com/en/guide/routing.html
+
+##### https://masteringjs.io/tutorials/express/body
+
+##### https://mongoosejs.com/docs/tutorials/lean.html#using-lean
+
+##### https://medium.com/@elijahvalentinetroyabako/securing-node-js-restful-apis-with-json-web-tokens-d0a152a97d2c
+
+##### https://mongoosejs.com/docs/guide.html
+
+##### https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/async-and-await
+
+
+
+
+
+
+
+
+
+
 
 
 
