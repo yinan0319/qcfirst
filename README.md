@@ -34,8 +34,8 @@
 ##### we realized that the theme and implementations are the same, only with some minor changes in certain design/layout choices 
 
 ### Admin Access
-###### Ktaiyeba1@gmail.com 
-###### admin 
+###### Email: Ktaiyeba1@gmail.com 
+###### Password: admin 
 
 
 
