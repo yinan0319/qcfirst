@@ -33,7 +33,38 @@
 ##### Originally we had some different visions of what we want QCFirst to look like, however,after the completion of our project, 
 ##### we realized that the theme and implementations are the same, only with some minor changes in certain design/layout choices 
 
+### Admin Access
+###### Ktaiyeba1@gmail.com 
+###### admin 
 
+
+
+### Resources 
+##### https://www.youtube.com/watch?v=nwgQzuRRgec\
+
+##### https://www.youtube.com/watch?v=yalxT0PEx8c
+
+##### https://www.youtube.com/watch?v=esKNjzDZItQ
+
+##### https://www.youtube.com/watch?v=9cKsq14Kfsw
+
+##### https://www.youtube.com/watch?v=ScoURsEM_yU
+
+##### https://www.youtube.com/watch?v=bxsemcrY4gQ
+
+##### https://www.youtube.com/watch?v=Oe421EPjeBE
+
+##### https://www.youtube.com/watch?v=-RCnNyD0L-s
+
+##### https://www.youtube.com/watch?v=_zvWeGwVkCY
+
+##### https://www.youtube.com/watch?v=DUg2SWWK18I
+
+##### https://www.youtube.com/watch?v=Cgvopu9zg8Y
+
+##### https://stackify.com/node-js-module-exports/
+
+##### https://expressjs.com/en/starter/hello-world.html
 
 
 
